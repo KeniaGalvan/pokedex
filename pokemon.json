@@ -1,0 +1,20 @@
+pokemones = [
+  {
+    "id":"001",
+    "name":"Charmander",
+    "photo":"002",
+    "type":"fairy"
+  },
+  {
+    "id":"002",
+  "name":"Jose",
+  "photo":"p",
+  "type":"fairy"
+},
+{
+  "id":"003",
+"name":"tortuga",
+"photo":"Bul",
+"type":"fairy"
+}
+];
