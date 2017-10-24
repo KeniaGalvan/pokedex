@@ -1,1 +1,1 @@
-<?php header( 'location:pokedex.html'); ?>
+<?php header( 'location:Index.html'); ?>
